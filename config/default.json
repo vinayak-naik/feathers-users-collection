@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mongodb": "mongodb+srv://vinayak:vinayak@cluster0.dsnun.mongodb.net/task-2?retryWrites=true&w=majority"
+}
